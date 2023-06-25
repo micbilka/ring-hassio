@@ -26,9 +26,9 @@
         "port": 3000
     },
     "schema": {
-        "ring_refresh_token":"str",
-        "camera_name": "str",
-        "port":"port"
+        "ring_refresh_token":"eyJhbGciOiJSUzI1NiIsImprdSI6Ii9vYXV0aC9pbnRlcm5hbC9qd2tzIiwia2lkIjoiNGRjODQyZGIiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOjE2ODc2NTYzMzEsImlzcyI6IlJpbmdPYXV0aFNlcnZpY2UtcHJvZDp1cy1lYXN0LTE6OWE1OTEyZWYiLCJyZWZyZXNoX2NpZCI6InJpbmdfb2ZmaWNpYWxfYW5kcm9pZCIsInJlZnJlc2hfc2NvcGVzIjpbImNsaWVudCJdLCJyZWZyZXNoX3VzZXJfaWQiOjkwNDY4MDkwLCJybmQiOiI0eTdDbUdpaTVCIiwic2Vzc2lvbl9pZCI6IjVlNGI0YmRjLWIyZmEtNDliOC1hZjk3LWMxOGI3YTQzMWU2NCIsInR5cGUiOiJyZWZyZXNoLXRva2VuIn0.r8L5Fgc1uSS_3OL71e2ng49EbSrmhTWFMkBbvBjSs04Bv9NHbDOe4YmvNGmxWYV85zbyYbe4GTZZuRUtgMH6B_fsISq9mFQuneVqmp1oF96ayauH82X23Ct0g1zWh1V-MTS8VZqiyeRH9DT_VvM9b8HeVT2W_e7_A0J1hp8h2zxRssW_hs4F78vqjLaZjinZRaet0t0DWgTay1oA5inF2U0zcYQ9rb44_FMErPrfqZPi1PhKrgry9UOCpWTJaHWd53pBDD8oOzh3atQQSxHXU0JEmMuQbs9fjrXkWsInJAK7aclCI5DQF5igX4Aw41-fUbtfppdP6NZCzN8EUZxUyQ",
+        "camera_name": "Front Door",
+        "port":"3000    "
     },
     "map": [
         "share:rw",
